@@ -1,0 +1,17 @@
+This is the explanation of each element
+
+iphone native:
+1. Round Rect Button
+2. Table View
+3. Image View
+4. Map View
+5. Search Bar
+6. Navigation Bar
+
+Phone Gap:
+1. Inline Button
+2. Basic Linked List
+3. Just an Image?
+4. google map plugin
+5. search input
+6. header bar and navbar
